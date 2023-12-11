@@ -9,4 +9,5 @@ The Philosophers project involves solving the dining philosophers problem, a cla
 
 ```bash
 make
-./philo [arguments]
+./philo [number_of_philosophers] [time_to_die] [time_to_eat] [time_to_sleep]
+([number_of_times_each_philosopher_must_eat]) optional argument
