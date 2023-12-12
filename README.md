@@ -20,4 +20,4 @@ make
 
 ## My Notion
 
-[Visit My Notion Page](https://www.notion.so/PHILOSOPHERS-e8cbfb913d1c41e5b76123e6b7b05778) Maybe there would be some bad words while i was explainning to my self XD (btw it's written in Darija of Morocco)
+[Visit My Notion Page](https://www.notion.so/PHILOSOPHERS-e8cbfb913d1c41e5b76123e6b7b05778?pvs=4) Maybe there would be some bad words while i was explainning to my self XD (btw it's written in Darija of Morocco)
