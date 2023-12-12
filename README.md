@@ -11,3 +11,8 @@ The Philosophers project involves solving the dining philosophers problem, a cla
 make
 ./philo [number_of_philosophers] [time_to_die] [time_to_eat] [time_to_sleep]
 ([number_of_times_each_philosopher_must_eat]) optional argument
+```
+
+## Calligrapher
+
+![philosopher_khouatata (3)](https://github.com/OMVR-49/Philosophers_42/assets/111209064/27423da6-1b82-4398-b37a-46f493bc0a48)
