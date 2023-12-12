@@ -16,3 +16,8 @@ make
 ## Calligrapher
 
 ![philosopher_khouatata (3)](https://github.com/OMVR-49/Philosophers_42/assets/111209064/27423da6-1b82-4398-b37a-46f493bc0a48)
+
+
+## My Notion
+
+[Visit My Notion Page](https://www.notion.so/PHILOSOPHERS-e8cbfb913d1c41e5b76123e6b7b05778) Maybe there would be some bad words while i was explainning to my self XD (btw it's written in Darija of Morocco)
